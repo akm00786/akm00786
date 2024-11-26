@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**akm00786/akm00786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I'm Md akmal
+- 🌱 I am passionate about Full Stack Web Development & Problem Solving.
+- 📫 connect to me on  [LinkedIn](https://www.linkedin.com/in/mdakmal)
 
-Here are some ideas to get you started:
+- TechStack I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-frontend :  ReactJS, tailwind , shadcn , material-UI
+-backend : NodeJS ,  express , Strapi
+-Database:  MongoDB, MySQL, PostgreSQL
+-Authentication  :  Clerk , Firebase , JWT 
+-Real-time communication :  SOCKET.io
+-Problems Solving:  C++ , javascript , typescipt
+
+# Projects:
+-[AI RESUME BUILDER](https://ai-resume-builder-frontend-kappa.vercel.app/)
+-[REAL TIME CHAT APP](https://mern-chat-app-frontend-one.vercel.app/)
+-[ECOMMERCE WEBSITE](https://ecommerce-frontend-mern-six.vercel.app/)
+-[ADMIN DASHBOARD](https://react-admin-dashboard-five-zeta.vercel.app/)

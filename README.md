@@ -16,5 +16,5 @@
 - [ADMIN DASHBOARD](https://react-admin-dashboard-five-zeta.vercel.app/)
 - [AI RESUME BUILDER](https://ai-resume-builder-frontend-kappa.vercel.app/)
 - [REAL TIME CHAT APP](https://mern-chat-app-frontend-one.vercel.app/)
-- [ECOMMERCE WEBSITE](https://ecommerce-frontend-mern-six.vercel.app/)
+- [JIRA | PRODUCT MANAGEMENT](https://jira-three-virid.vercel.app)
 

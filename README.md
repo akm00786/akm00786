@@ -1,20 +1,21 @@
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6f8431aa-d083-4eb6-a74c-9d3bf9bc7e39" />
+- 👋 Hi, I'm  Akmal
+- 🌱 I am passionate about Full Stack Web Development
+- ℹ️connect to me on  [LinkedIn](https://www.linkedin.com/in/mdakmal)
+- 🅾 connect to me on  [instagram](https://www.instagram.com/akm78600/)
+- 𝕏 connect to me on  [X](https://x.com/akm786000)
 
-- 👋 Hi, I'm Md akmal
-- 🌱 I am passionate about Full Stack Web Development & Problem Solving.
-- 📫 connect to me on  [LinkedIn](https://www.linkedin.com/in/mdakmal)
 
 # TechStack I work with:
 
-- **frontend** : Nextjs ,  ReactJS, tailwind , shadcn , material-UI
-- **backend** : NodeJS ,  express , Strapi
-- **Database** :  MongoDB, MySQL, PostgreSQL , neondb , prisma
-- **Authentication**  :  Clerk , Firebase , JWT 
-- **Real-time communication** :  SOCKET.io
-- **Problems Solving**  :  C++ , javascript , typescipt
+- **frontend** : ReactJS , Nextjs , tailwind 
+- **backend** : NodeJS ,  express , socket.io , jwt
+- **Database** :  MongoDB, MySQL, PostgreSQL 
+- **Problems Solving**  :  C++ , javascript , typescipt, java , python
 
 # Projects:
+- [USER AUTHENTICATION SYSTEM](https://react-admin-dashboard-five-zeta.vercel.app/)
 - [ADMIN DASHBOARD](https://react-admin-dashboard-five-zeta.vercel.app/)
-- [AI RESUME BUILDER](https://ai-resume-builder-frontend-kappa.vercel.app/)
 - [REAL TIME CHAT APP](https://mern-chat-app-frontend-one.vercel.app/)
-- [JIRA | PRODUCT MANAGEMENT](https://jira-three-virid.vercel.app)
+- [AI INTERVIEW PREP APPLICATION](https://react-admin-dashboard-five-zeta.vercel.app/)
 

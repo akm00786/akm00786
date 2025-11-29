@@ -2,7 +2,7 @@
 - 🌱 I am passionate about Full Stack Web Development
 - ℹ️connect to me on  [LinkedIn](https://www.linkedin.com/in/mdakmal)
 - 🅾 connect to me on  [instagram](https://www.instagram.com/akm78600/)
-- 𝕏 connect to me on  [X](https://x.com/akm786000)
+- 𝕏  connect to me on  [X (twitter)](https://x.com/akm786000)
 
 
 

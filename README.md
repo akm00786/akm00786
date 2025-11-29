@@ -1,9 +1,9 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6f8431aa-d083-4eb6-a74c-9d3bf9bc7e39" />
 - 👋 Hi, I'm  Akmal
 - 🌱 I am passionate about Full Stack Web Development
 - ℹ️connect to me on  [LinkedIn](https://www.linkedin.com/in/mdakmal)
 - 🅾 connect to me on  [instagram](https://www.instagram.com/akm78600/)
 - 𝕏 connect to me on  [X](https://x.com/akm786000)
+
 
 
 # TechStack I work with:

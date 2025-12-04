@@ -9,7 +9,7 @@
 
 # TechStack I work with:
 
-- **frontend** : ReactJS , Nextjs , tailwind 
+- **frontend** : ReactJS , Nextjs , tailwind ,redux,zustand
 - **backend** : NodeJS ,  express , socket.io , jwt
 - **Database** :  MongoDB, MySQL, PostgreSQL 
 - **Problems Solving**  :  C++ , javascript , typescipt, java , python

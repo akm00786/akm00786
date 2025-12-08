@@ -2,7 +2,6 @@
 - 🌱 I am passionate about Full Stack Web Development
 -  ℹ️  connect to me on  [LinkedIn](https://www.linkedin.com/in/mdakmal)
 -  𝕏  connect to me on  [X (twitter)](https://x.com/akm786000)
--  🅾  connect to me on  [instagram](https://www.instagram.com/akm78600/)
 
 
 
@@ -16,8 +15,9 @@
 
 # Projects:
 
-- [REAL TIME CHAT APP](https://mern-chat-app-frontend-one.vercel.app/)
-- [AI INTERVIEW PREP APPLICATION](https://react-admin-dashboard-five-zeta.vercel.app/)
-- [USER AUTHENTICATION SYSTEM](https://react-admin-dashboard-five-zeta.vercel.app/)
+- [AI COLD MAIL GENERATOR](https://ai-cold-email-app-akmal.onrender.com/)
+- [USER AUTHENTICATION SYSTEM](https://mern-auth-frontend-xi-one.vercel.app/login)
 - [ADMIN DASHBOARD](https://react-admin-dashboard-five-zeta.vercel.app/)
+- [REAL TIME CHAT APP](https://mern-chat-app-frontend-one.vercel.app/)
+
 

@@ -16,7 +16,7 @@
 # Projects:
 
 - [AI COLD MAIL GENERATOR](https://ai-cold-email-app-akmal.onrender.com/)
-- [USER AUTHENTICATION SYSTEM](https://mern-auth-frontend-xi-one.vercel.app/login)
+- [USER AUTHENTICATION SYSTEM](https://mern-auth-frontend-xi-one.vercel.app)
 - [ADMIN DASHBOARD](https://react-admin-dashboard-five-zeta.vercel.app/)
 - [REAL TIME CHAT APP](https://mern-chat-app-frontend-one.vercel.app/)
 
